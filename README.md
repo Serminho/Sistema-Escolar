@@ -42,14 +42,19 @@ Essas escolhas priorizaram **simplicidade, clareza e eficiência**, sendo ideais
 
 4. **O programa exibirá todos os dados no console e, ao final, criará o arquivo:**
 
-- output.txt
+- output.txt.
+
 Esse arquivo será salvo no mesmo diretório de execução e conterá toda a saída formatada.
+
+---
 
 ## ⚙️ Desafios Encontrados
 
 Durante o desenvolvimento, o principal desafio foi estruturar as classes e coleções de forma simples, mas eficiente, especialmente ao vincular estudantes e disciplinas por meio das matrículas.
 Outro ponto foi gerar o arquivo output.txt sem perder a formatação visual do console.
 O uso de List e Map facilitou a implementação e reduziu a complexidade, mantendo o código próximo de O(1) nas operações principais de busca e inserção.
+
+---
 
 ## 📄 Resultado Final
 
